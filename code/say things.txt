@@ -1,0 +1,30 @@
+the project is all housed within a windows application
+
+task 1 displays a number of random walks, the amount of which and length of each can be set by the user via sliders
+
+task 2 utilises a similar idea, however is now simulated in 3d space, with collisions being computed between the larger and smaller particles, with the smaller particles being highlighted when they collide
+
+task 3 is shown here
+
+task 4 displays the photoelectric effect for a user selected metal and displays the threshold frequency
+
+task 5 is shown here
+
+task 6 is also completed in 3d space mimicking a real world experiment that may occur in a bulb
+	a slider allows the user to change the accelerating voltage
+	you can see that the spacing between rings is non uniform, this is due to the different lattice spacings used
+	the opacity of the rings was approximated according to lattice spacing also
+	then the straight line graph of 1 by square root of voltage against sin of 1 over theta is displayed
+
+task 7 is shown here
+
+task 8 shows the discrepancy in classical and quantum probabilities in the mismatch of polarisation of entangled photons
+
+task 9 allows for the user to change the energy of the incident photon via a slider, and you can lock the axes, as well as show the probability distribution of the photon scattering at that angle, this is computed by a monte carlo simulation
+
+task 10 allows the user to input any hydrogenic orbital and output it's radial graph, z=0 plane probability graph, or as point cloud
+
+in the description you can find the GitHub repo with all code and completed extension sheets
+
+
+I do: 10, 6, 2, 1
