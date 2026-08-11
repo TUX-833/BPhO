@@ -1,4 +1,4 @@
-# BPHO
+# BPhO
 
 ## Running the python program
 first install all requirements, which can be found in 'Code/requirements.txt'  
